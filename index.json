@@ -1,0 +1,172 @@
+{
+  "dataset": "Natura2000_end2024",
+  "layer": "NaturaSite_polygon",
+  "crs": "EPSG:3035",
+  "generated": "2026-09-14T20:54:25",
+  "file_count": 27,
+  "total_size_bytes": 819024310,
+  "files": [
+    {
+      "country": "AT",
+      "file": "Natura2000_end2024_AT.zip",
+      "size_bytes": 13796465,
+      "modified": "2026-09-14T20:50:12"
+    },
+    {
+      "country": "BE",
+      "file": "Natura2000_end2024_BE.zip",
+      "size_bytes": 12609913,
+      "modified": "2026-09-14T20:50:13"
+    },
+    {
+      "country": "BG",
+      "file": "Natura2000_end2024_BG.zip",
+      "size_bytes": 23989451,
+      "modified": "2026-09-14T20:50:14"
+    },
+    {
+      "country": "CY",
+      "file": "Natura2000_end2024_CY.zip",
+      "size_bytes": 1974397,
+      "modified": "2026-09-14T20:50:14"
+    },
+    {
+      "country": "CZ",
+      "file": "Natura2000_end2024_CZ.zip",
+      "size_bytes": 21367939,
+      "modified": "2026-09-14T20:50:16"
+    },
+    {
+      "country": "DE",
+      "file": "Natura2000_end2024_DE.zip",
+      "size_bytes": 97778117,
+      "modified": "2026-09-14T20:50:30"
+    },
+    {
+      "country": "DK",
+      "file": "Natura2000_end2024_DK.zip",
+      "size_bytes": 5523937,
+      "modified": "2026-09-14T20:50:17"
+    },
+    {
+      "country": "EE",
+      "file": "Natura2000_end2024_EE.zip",
+      "size_bytes": 6595179,
+      "modified": "2026-09-14T20:50:17"
+    },
+    {
+      "country": "ES",
+      "file": "Natura2000_end2024_ES.zip",
+      "size_bytes": 155043115,
+      "modified": "2026-09-14T20:50:41"
+    },
+    {
+      "country": "FI",
+      "file": "Natura2000_end2024_FI.zip",
+      "size_bytes": 35050984,
+      "modified": "2026-09-14T20:50:44"
+    },
+    {
+      "country": "FR",
+      "file": "Natura2000_end2024_FR.zip",
+      "size_bytes": 61966664,
+      "modified": "2026-09-14T20:50:49"
+    },
+    {
+      "country": "GR",
+      "file": "Natura2000_end2024_GR.zip",
+      "size_bytes": 27357652,
+      "modified": "2026-09-14T20:50:57"
+    },
+    {
+      "country": "HR",
+      "file": "Natura2000_end2024_HR.zip",
+      "size_bytes": 36622462,
+      "modified": "2026-09-14T20:51:00"
+    },
+    {
+      "country": "HU",
+      "file": "Natura2000_end2024_HU.zip",
+      "size_bytes": 12262157,
+      "modified": "2026-09-14T20:51:00"
+    },
+    {
+      "country": "IE",
+      "file": "Natura2000_end2024_IE.zip",
+      "size_bytes": 59220929,
+      "modified": "2026-09-14T20:51:06"
+    },
+    {
+      "country": "IT",
+      "file": "Natura2000_end2024_IT.zip",
+      "size_bytes": 37766790,
+      "modified": "2026-09-14T20:51:10"
+    },
+    {
+      "country": "LT",
+      "file": "Natura2000_end2024_LT.zip",
+      "size_bytes": 18583668,
+      "modified": "2026-09-14T20:51:12"
+    },
+    {
+      "country": "LU",
+      "file": "Natura2000_end2024_LU.zip",
+      "size_bytes": 4647578,
+      "modified": "2026-09-14T20:51:12"
+    },
+    {
+      "country": "LV",
+      "file": "Natura2000_end2024_LV.zip",
+      "size_bytes": 1392388,
+      "modified": "2026-09-14T20:51:12"
+    },
+    {
+      "country": "MT",
+      "file": "Natura2000_end2024_MT.zip",
+      "size_bytes": 948205,
+      "modified": "2026-09-14T20:51:12"
+    },
+    {
+      "country": "NL",
+      "file": "Natura2000_end2024_NL.zip",
+      "size_bytes": 8672135,
+      "modified": "2026-09-14T20:51:13"
+    },
+    {
+      "country": "PL",
+      "file": "Natura2000_end2024_PL.zip",
+      "size_bytes": 17005359,
+      "modified": "2026-09-14T20:51:20"
+    },
+    {
+      "country": "PT",
+      "file": "Natura2000_end2024_PT.zip",
+      "size_bytes": 6734715,
+      "modified": "2026-09-14T20:51:20"
+    },
+    {
+      "country": "RO",
+      "file": "Natura2000_end2024_RO.zip",
+      "size_bytes": 42436018,
+      "modified": "2026-09-14T20:51:23"
+    },
+    {
+      "country": "SE",
+      "file": "Natura2000_end2024_SE.zip",
+      "size_bytes": 95685702,
+      "modified": "2026-09-14T20:51:30"
+    },
+    {
+      "country": "SI",
+      "file": "Natura2000_end2024_SI.zip",
+      "size_bytes": 3793975,
+      "modified": "2026-09-14T20:51:31"
+    },
+    {
+      "country": "SK",
+      "file": "Natura2000_end2024_SK.zip",
+      "size_bytes": 10198416,
+      "modified": "2026-09-14T20:51:31"
+    }
+  ]
+}
